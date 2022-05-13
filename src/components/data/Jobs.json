@@ -1,0 +1,582 @@
+[
+{
+        "Switzerland": [{
+            "id": 0,
+            "Company": "Riot Games",
+            "Logo": "https://i.ibb.co/ssHNKsk/Logo1.jpg",
+            "Location": {
+                "Country": "Switzerland",
+                "City": "Zurich"
+            },
+            "JobType": "Full Time",
+            "Work_Level": "Entry Level",
+            "Experience": 1,
+            "Salary": 6000,
+            "Title": "Software Engineer",
+            "Description": {
+                "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+             },
+            "PostedAt": "22 hours ago",
+            "Lenguages": [
+                "JavaScript"
+            ],
+            "Tools": [
+                "React",
+                "Sass"
+            ],
+            "New": false,
+            "Featured": true,
+            "URL": "youtube.com",
+            "Applicants": 25
+        }]
+    },
+    {
+        "Argentina": [{
+            "id": 0,
+            "Company": "Mercado Libre",
+            "Logo": "./IMG/Logo3.png",
+            "Location": {
+                "Country": "Argentina",
+                "City": "Santa Fe"
+            },
+            "JobType": "Full Time",
+            "Work_Level": "Senior Level",
+            "Experience": 5,
+            "Salary": 140000,
+            "Title": "Ingenierio en sistemas",
+            "Description": {
+                "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+             },
+            "PostedAt": "3 weeks ago",
+            "Lenguages": [
+                "Python"
+            ],
+            "Tools": [],
+            "New": false,
+            "Featured": true,
+            "URL": "youtube.com",
+            "Applicants": 140
+        }]
+    },
+    {
+        "Canada": [{
+            "id": 0,
+            "Company": "Microsoft",
+            "Logo": "https://gist.githack.com/FaustooDEV/2119eb005ae9a6d2521b8ab75b7771c7/raw/d853bd371810ec1ba726c55655c6547f399f5f7e/9.svg",
+            "Location": {
+                "Country": "Canada",
+                "City": "Vancouver"
+            },
+            "JobType": "Full Time",
+            "Work_Level": "Senior Level",
+            "Experience": 3,
+            "Salary": 7500,
+            "Title": "Senior Software Engineer",
+            "Description": {
+                "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+             },
+            "PostedAt": "11h ago",
+            "Lenguages": [
+                "Python, Java, C#, Ruby"
+            ],
+            "Tools": [
+                "Spring, DJango"
+            ],
+            "New": true,
+            "Featured": false,
+            "URL": "youtube.com",
+            "Applicants": 7
+        }]
+    },
+    {
+        "United Kingdom": [{
+            "id": 0,
+            "Company": "Hytale Games",
+            "Logo": "https://gist.githack.com/FaustooDEV/7493273c4900d54a6cb822a8cb4ffb21/raw/c2ce023740c7c10a24f1a9eac1f6e5eca3e55f8f/8.svg",
+            "Location": {
+                "Country": "United Kingdom",
+                "City": "London"
+            },
+            "JobType": "Full Time",
+            "Work_Level": "Entry Level",
+            "Experience": 1,
+            "Salary": 2800,
+            "Title": "UI / UX Designer",
+            "Description": {
+                "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+             },
+            "PostedAt": "4d ago",
+            "Lenguages": [],
+            "Tools": [],
+            "New": true,
+            "Featured": true,
+            "URL": "youtube.com",
+            "Applicants": 5
+        }]
+    },
+    {
+        "Germany": [{
+            "id": 0,
+            "Company": "ScriptRunner",
+            "Logo": "https://gist.githack.com/FaustooDEV/dd9f701bea678ff3fcf27a2996f82583/raw/4b9dce9699db8e0fcc3ae1321f2f07634e8e3b2a/3.svg",
+            "Location": {
+                "Country": "Germany",
+                "City": "Nuremberg"
+            },
+            "JobType": "Full Time",
+            "Work_Level": "Mid Level",
+            "Experience": 2,
+            "Salary": 5000,
+            "Title": "UI / UX Designer",
+            "Description": {
+                "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+             },
+            "PostedAt": "2 weeks ago",
+            "Lenguages": [],
+            "Tools": [],
+            "New": false,
+            "Featured": false,
+            "URL": "youtube.com",
+            "Applicants": 120
+        }]
+    },
+    {
+        "Ireland": [{
+                "id": 0,
+                "Company": "Google Company",
+                "Logo": "https://i.ibb.co/SRJMvW2/Google.jpg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Letterkenny"
+                },
+                "Experience": 5,
+                "Salary": 8000,
+                "Title": "Full-Stack Software Engineer",
+                "Description": {
+                   "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                   "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                   "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                },
+                "PostedAt": "3 weeks ago",
+                "Lenguages": [
+                    "JavaScript, Python, PHP, C#"
+                ],
+                "Tools": [
+                    "Angular, DJango"
+                ],
+                "Featured": true,
+                "New": true,
+                "JobType": "Full Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 200
+            },
+            {
+                "id": 1,
+                "Company": "Account Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/327fa0013b26c4850c682d1efba894ec/raw/e334dcadeff955f7a77970f047883e3be0e253b4/1.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Dublin"
+                },
+                "Experience": 1,
+                "Salary": 2300,
+                "Title": "Full-Stack Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": true,
+                "JobType": "Remote",
+                "Work_Level": "Entry Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 2,
+                "Company": "Eyecam Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/d79bf6c772b513c36c25540be084d67a/raw/41ba8dbe1d009779c3b126cb247e3ec67c4033fe/2.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Cork"
+                },
+                "Experience": 1,
+                "Salary": 2500,
+                "Title": "Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": true,
+                "JobType": "Remote",
+                "Work_Level": "Senior Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 3,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5500,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 4,
+                "Company": "ScriptRunner",
+                "Logo": "https://gist.githack.com/FaustooDEV/dd9f701bea678ff3fcf27a2996f82583/raw/4b9dce9699db8e0fcc3ae1321f2f07634e8e3b2a/3.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Cork"
+                },
+                "Experience": 1,
+                "Salary": 5100,
+                "Title": "Software Developer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "2d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": true,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 17
+            },
+            {
+                "id": 5,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5300,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": true,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 6,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5300,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 7,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5300,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 8,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5300,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            },
+            {
+                "id": 9,
+                "Company": "Loop Studios Company",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "Ireland",
+                    "City": "Kilkenny"
+                },
+                "Experience": 1,
+                "Salary": 5300,
+                "Title": "Systems Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "7d ago",
+                "Lenguages": [
+                    "Python, Java"
+                ],
+                "Tools": [
+                    "Spring, DJango"
+                ],
+                "Featured": false,
+                "New": false,
+                "JobType": "Part Time",
+                "Work_Level": "Mid Level",
+                "URL": "youtube.com",
+                "Applicants": 15
+            }
+        ]
+    },
+    {
+        "United States": [{
+                "id": 0,
+                "Company": "Tesla",
+                "Logo": "https://gist.githack.com/FaustooDEV/4af8515333f6459bd2c5560e07a27446/raw/014780d583c161c09261a33b11c08967fd6c239b/4.svg",
+                "Location": {
+                    "Country": "United States",
+                    "City": "California, Miami"
+                },
+                "JobType": "Full Time",
+                "Work_Level": "Senior Level",
+                "Experience": 5,
+                "Salary": 9000,
+                "Title": "Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "1 day ago",
+                "Lenguages": [
+                    "JavaScript, Python, PHP, C#"
+                ],
+                "Tools": [
+                    "Angular, DJango"
+                ],
+                "New": false,
+                "Featured": true,
+                "URL": "youtube.com",
+                "Applicants": 300
+            },
+            {
+                "id": 1,
+                "Company": "RIDE Capital",
+                "Logo": "https://gist.githack.com/FaustooDEV/48a450b28e3106c3714904682363f158/raw/827358cd58aa1c3e597d36cefe8c83b82f20959a/5.svg",
+                "Location": {
+                    "Country": "United States",
+                    "City": "Texas, Dallas"
+                },
+                "JobType": "Full Time",
+                "Work_Level": "Senior Level",
+                "Experience": 5,
+                "Salary": 8000,
+                "Title": "Full-Stack Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "3 weeks ago",
+                "Lenguages": [
+                    "JavaScript, Python, PHP, C#"
+                ],
+                "Tools": [
+                    "Angular, DJango"
+                ],
+                "New": false,
+                "Featured": true,
+                "URL": "youtube.com",
+                "Applicants": 250
+            }
+        ]
+    },
+    {
+        "Uruguay": [{
+                "id": 0,
+                "Company": "Uruguay1",
+                "Logo": "https://gist.githack.com/FaustooDEV/cfb2204816b44ccaff27f9aa143b2005/raw/2425a3d66a3968600dd35bc5c167a321bd1ba178/6.svg",
+                "Location": {
+                    "Country": "Uruguay",
+                    "City": "Montevideo"
+                },
+                "JobType": "Full Time",
+                "Work_Level": "Senior Level",
+                "Experience": 5,
+                "Salary": 9000,
+                "Title": "Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "1 day ago",
+                "Lenguages": [
+                    "JavaScript, Python, PHP, C#"
+                ],
+                "Tools": [
+                    "Angular, DJango"
+                ],
+                "New": false,
+                "Featured": true,
+                "URL": "youtube.com",
+                "Applicants": 300
+            },
+            {
+                "id": 1,
+                "Company": "Uruguay2",
+                "Logo": "https://gist.githack.com/FaustooDEV/73d5077b189de16127ac235ef564c58f/raw/91564f0fd9b4fcbd7083e458fba362bf5ad7ae87/7.svg",
+                "Location": {
+                    "Country": "Uruguay",
+                    "City": "Montevideo"
+                },
+                "JobType": "Remote",
+                "Work_Level": "Senior Level",
+                "Experience": 5,
+                "Salary": 9000,
+                "Title": "Software Engineer",
+                "Description": {
+                    "JobOverview": ["We are seeking an experienced Wordpress developer with minimum 2+ years of experiencea WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins. This position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript) and aesthetics (understanding element arrangements on the screen, the color and font choices, and so on). The candidate should have a strong understanding of industry trends and content management systems. Experience with the responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, and deployment is preferred."],
+                    "Skills": ["Hand On experience with Wordpress", "Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery", "Experience building user interfaces for websites and/or web applications", "Experience designing and developing responsive design websites", "Comfortable working with debugging tools like Firebug, Chrome inspector, etc.", "Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers", "Ability to convert comprehensive layout and wireframes into working HTML pages", "Knowledge of how to interact with RESTful APIs and formats (JSON, XML)", "Proficient understanding of code versioning tool GIT", "Strong understanding of PHP back-end development"],
+                    "Education": ["Higher(10th Pass) (Preferred)", "Higher Secondary(12th Pass) (Preferred)", "Any Graduattion Degree(13th Pass) (Preferred)"]
+                 },
+                "PostedAt": "1 day ago",
+                "Lenguages": [
+                    "JavaScript, Python, PHP, C#"
+                ],
+                "Tools": [
+                    "Angular, DJango"
+                ],
+                "New": false,
+                "Featured": true,
+                "URL": "youtube.com",
+                "Applicants": 300
+            }
+        ]
+    }
+]
